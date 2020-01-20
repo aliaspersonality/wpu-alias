@@ -2,5 +2,6 @@ WPU RESOLUSI
 - konsisten membuat konten
 - membuat platform penjualan
 - membuat forum diskusi
-- hasil diskusi
+- demo forum diskusi
+- realisasi forum
 - call to action
